@@ -1,0 +1,3 @@
+/Users/etsuko/Application/cpp/build/CMakeFiles/TriangleGame.dir
+/Users/etsuko/Application/cpp/build/CMakeFiles/edit_cache.dir
+/Users/etsuko/Application/cpp/build/CMakeFiles/rebuild_cache.dir
